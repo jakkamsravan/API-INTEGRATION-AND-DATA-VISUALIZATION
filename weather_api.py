@@ -5,7 +5,7 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 
 # asking the user for api key
-api_key = "9d6e5c75f43a61a869bb71e4eb6b3913"
+api_key = "5676f091dec9aaf244cab5319293e0ea"
 
 # asking the user for city name
 city_name = input("Please Enter Your City Name: ")
