@@ -1,4 +1,4 @@
-# Script to fetch the temperature and other info of a city from weather app
+# Script to fetch the temperature and other info of a city from weather app 
 import requests
 import json
 from datetime import datetime
